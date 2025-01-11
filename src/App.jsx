@@ -18,7 +18,7 @@ import {
 import "./App.css";
 import Home from "./pages/home";
 import Form from "./pages/form";
-import Header from "../src/components/Header";
+import Header from "./components/header";
 import SelectedLocation from "./pages/selectedLocation";
 
 // Ajout des icônes à la librairie FontAwesome
